@@ -9,9 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Bandeira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div>
-  ![Snake animation](https://github.com/Davi-Bandeira/Davi-Bandeira/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/Davi-Bandeira/Davi-Bandeira/blob/output/github-contribution-grid-snake.svg)
 
 ## Tecnologias que eu uso no meu dia a dia
   
