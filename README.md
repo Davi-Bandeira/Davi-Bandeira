@@ -9,10 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Bandeira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-![Snake animation](https://github.com/Davi-Bandeira/Davi-Bandeira/blob/output/github-contribution-grid-snake.svg)
-
 ## Tecnologias que eu uso no meu dia a dia
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
